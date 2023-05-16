@@ -19,7 +19,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -46,10 +45,11 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Add Person, Student, and Teacher classes]**
+- **[Decorator" design pattern]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -75,7 +75,7 @@ Example commands:
 cd School_Library
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- AUTHORS -->
 
@@ -91,14 +91,13 @@ cd School_Library
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[Decorator" design pattern]**
 - [] **[set up associations]**
 - [] **[add basic UI]**
 - [] **[refactor your code]**
 - [] **[preserve data]**
 - [] **[unit tests]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -108,7 +107,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/QueenterJuma/School_Library/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- SUPPORT -->
 
@@ -116,7 +115,7 @@ Feel free to check the [issues page](https://github.com/QueenterJuma/School_Libr
 
 > If the project was great as your view, don't hesitate to share and give it a star.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -124,7 +123,7 @@ Feel free to check the [issues page](https://github.com/QueenterJuma/School_Libr
 
 > I would like to thank [the whole Microverse Community](https://www.microverse.org/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- LICENSE -->
 
@@ -132,4 +131,4 @@ Feel free to check the [issues page](https://github.com/QueenterJuma/School_Libr
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
