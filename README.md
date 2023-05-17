@@ -46,6 +46,7 @@
 
 - **[Add Person, Student, and Teacher classes]**
 - **[Decorator" design pattern]**
+- **[set up associations]**
 
 <p align="right">(<a href="#readme-top"></a>)</p>
 
@@ -91,7 +92,6 @@ cd School_Library
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[set up associations]**
 - [] **[add basic UI]**
 - [] **[refactor your code]**
 - [] **[preserve data]**
